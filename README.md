@@ -1,3 +1,8 @@
+![WebStorm Gulp Config](screenshots/screenshot.png)
+
+
+
+
 # Repository Description
 These are a series of projects to help you learng SASS(SCSS), BrowserSync, GULP, GitHub Pages, and web templates 
 with partial html files.  When you complete this project, you will be able to build your portfolios website.
